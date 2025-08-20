@@ -1,2 +1,2 @@
-# Metroidvania
-Projekt dla pani Kuchejdy
+# Elemental Souls
+Metroidvania
